@@ -1,4 +1,4 @@
-# Bulk RNA-seq Analysis — Brain Region Comparison
+# Transcriptomic Comparison of Human Brain Regions (Bulk RNA-seq Analysis)
 
 This project focuses on **bulk RNA-seq analysis** comparing two distinct brain regions: **Hippocampus (HP)** and **Motor Cortex (MC)**. Each region includes two experimental groups, labeled **A** and **B**. The objective is to identify differentially expressed genes (DEGs) and enriched biological processes that distinguish conditions both *within* and *across* brain regions.
 
